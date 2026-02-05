@@ -1,0 +1,762 @@
+image_path,plant,class,label,folder
+dataset\Raw_dataset\Guava_Healthy\Healthy (1287).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (81).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_40.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1169).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211008_124632 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1272).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (324).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (74).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_161448 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (442).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_153220 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_139.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_212719.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(170).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_154828 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (53).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_161506 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_107.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_162046 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Healthy(43).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214527.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_161146 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213721.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (20).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_229.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204334.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_208.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(227).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Healthy(56).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(108).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (130).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (178).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_154728 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215720.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG20241024095452_rotated_360.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1234).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213642.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\6ae87686-3b5f-4534-ad35-e9fd8beee8b1 - Copy.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210958.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_177.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (542).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144318_1.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(228).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_124331 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_160531 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (591).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_211107.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_211712.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1219).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_214011.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_167.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(44).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1439).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_32.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Healthy(34).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (445).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (440).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_130051 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_212325.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(124).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214458.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_170706 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1172).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\063f86c8-7d9e-4d6b-8df4-723dab64d9b7_rotated_45.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_153444 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212030.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_134911 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1465).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215356.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(45).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_211146.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_124228 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(7).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (167).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_143.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (58).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222031.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210419.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(13).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_134610 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (963).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (3).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (494).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (683).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_211417.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213026.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220644.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_222230.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(55).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215250.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1280).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (993).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144419.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (179).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_214432.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(66).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (648).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (22).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212010.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215503.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(293).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_134.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_129.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(162).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_211912.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(123).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_211700.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(29).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204403.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_287.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_124203 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1035).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (79).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220406.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (132).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221238.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_123405 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215545.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_152941 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_99.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (142).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (623).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214113.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_decreased_44.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_142930.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_211221.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_214615.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220613.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_123629 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (221).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(206).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_214643.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (62).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Healthy(151).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(281).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_164323 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1269).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_155339 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211011_160206 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (174).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_283.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214410.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_99.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Healthy(144).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(308).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215516.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_decreased_40.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_210626.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212114.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_221335.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Healthy(1).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1117).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(203).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_221441.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1236).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144230.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221156.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (103).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(171).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_143957(1).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_222028.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (629).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_117.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_124108 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212345.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144115.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (384).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204614.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(63).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220839.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1476).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213345.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_214956.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(222).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_123947 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (73).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (4).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (325).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221656.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_110.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_134021 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_143946.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213850.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1453).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (456).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (462).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1398).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220929.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214236.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (56).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (408).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1459).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214438.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_140327 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (952).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (152).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220416.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_123737 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_164132 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(309).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_153557 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(22).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_140557 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_155323 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222056.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (621).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211008_124334 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1012).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (561).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1440).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (27).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(297).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(60).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_22.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1441).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_154835 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_222203.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Healthy(173).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1305).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1490).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212222.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (123).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_66.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_160942 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221129.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1458).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(148).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (356).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1199).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_155734 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_205000.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_140510 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_143047.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(227).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1174).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144251.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (485).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_161321 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Healthy(192).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(94).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_155835 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (113).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(99).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(312).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1137).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_222524.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204113.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222720.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221300.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_162059 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212520.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (153).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_143041(1).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221842.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214512.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1207).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_276.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_162605 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211008_124907 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144128.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(181).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (471).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222344.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (242).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_160118 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (47).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210943.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\a06feff1-239d-451c-b91b-e5f793a4b8fd_rotated_90 - Copy.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (151).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210651.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(110).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_227.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1087).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (263).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_162451 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_214913.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(8).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(105).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212510.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_112.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_161248 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_215112.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (133).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1030).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (92).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (54).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_134655(0) (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (10).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_140610 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_205152.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211008_124306 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_134647 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (125).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210722.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_161849 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_212905.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1105).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_22.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (48).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_279.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_48.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (977).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204357.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_222634.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1015).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_205136.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221739.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144256_1.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (431).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG20241024101536.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_222728.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_161845 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_164657 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_152913 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144045.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211008_124250 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_211033.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (612).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212546.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (104).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_211835.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_212238.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(341).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_47.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_121.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_160435 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_193.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(206).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_125335 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222742.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (102).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1420).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (518).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_211708.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211011_170717 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212219.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_246.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212541.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (98).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1462).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(18).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (435).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_153324 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_291.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1343).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_155815 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_90.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_160713 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144426.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_205.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(60).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(270).png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (143).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (513).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_123847 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_115.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_160518 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (172).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1407).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(47).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (247).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (954).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(142).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_222533.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_140350 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204731.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (546).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(133).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (195).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_211601.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_205429.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220754.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (99).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_123721 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(65).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215335.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_160609 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (657).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(286).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_211925.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (568).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (181).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_170700 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1376).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (110).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1136).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_143951.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1371).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_221710.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (980).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_222034.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_125024 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(307).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_21.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1328).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (210).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (212).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(130).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220724.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_164921 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_123622 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204935.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220953.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_125003 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_211113.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(228).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214052.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213606.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221735.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_142918.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(77).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (314).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1193).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (162).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212445.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (200).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (70).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214031.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_143102.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211011_134427 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_164630 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1102).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_170206 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (156).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_155308 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (118).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (75).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (296).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1065).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (178).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (418).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_140600 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (558).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_160806 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1064).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(16).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1304).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (204).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(63).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(100).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (269).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211011_133438 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_162227 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(333).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(102).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_153027 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_211126.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210214.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_281.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (189).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG20241024101153.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214007.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1365).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (94).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204441.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (615).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211011_134713 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210648.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1427).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1154).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144036.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_155646 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_153254 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_126.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1387).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_161510 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(249).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_161054 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (216).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222134.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_205022.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_134537 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1464).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_155207 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (76).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (106).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1301).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(350).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_211409.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1134).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1110).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_130337 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_210652.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (334).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_72.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215627.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220947.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_161655 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_76.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_214800.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_218.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210607.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214507.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220326.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1127).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_98.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_decreased_34.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213456.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221141.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_215405.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_203940.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(256).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (117).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_160525 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144106.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_161115 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_160523 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_decreased_35.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214956.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (44).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (237).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212723.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_162830 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_155229 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(145).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210343.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_133.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1029).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_165851 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (106).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1100).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_14.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(165).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_53.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212118.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (273).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_221614.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (238).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_215124 - Copy.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (533).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_215215.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221049.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214042.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_171141 - Copy - Copy - Copy (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212051.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213600.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221210.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221621.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221112.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1359).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\e4e38a60-90f7-436c-9650-950e95989f22_rotated_270 - Copy.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(75).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_160612 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_133431 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(291).png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210448.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (283).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(253).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_134.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220331.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220307.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204619.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Healthy(51).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(145).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_214634.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(338).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (63).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(302).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (547).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_93.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_125609 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144341.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(90).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_95.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (957).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_152946 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_215229.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_decreased_32.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (164).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1247).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (146).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_decreased_5.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(180).png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_165.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (156).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_160857 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221803.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1116).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (69).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (676).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (370).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_155418 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_36.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (68).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_27.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_1.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Healthy(214).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211008_124501 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(15).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_155058 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(135).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(227).png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_170824 - Copy - Copy - Copy (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_162212 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_211245.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215542.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_104.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_111.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_211128.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(219).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_160343 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204737.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (86).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (192).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (346).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213916.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213321.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_84.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204138.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_247.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_128.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_134057 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1319).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221424.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(5).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222018.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(55).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144320_1.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (117).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_130128 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_142946.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(207).png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_160611 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (473).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210708.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_212921.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (563).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_211935.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (58).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_164906 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_140320 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_24.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_210859.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(58).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204945.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(217).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_123247 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1142).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_140437 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220454.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1001).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (416).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_153606 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_190.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (564).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (4).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215235.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222350.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (366).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\698b45ca-2dd1-469b-b67e-c10517263f09 - Copy.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204551.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\Healthy(119).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_164854 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144020.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144001.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211008_125016 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220303.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (351).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_188.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_161615 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (543).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_161519 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_212632.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Healthy(61).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_212912.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_212840.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144021_2.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1008).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_18.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1253).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_23.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1023).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(319).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (939).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\1eeb6aa9-1fc4-4d4c-b1dc-bdce1c313165.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213341.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_211745.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (62).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_140153(1).jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (55).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_211428.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_160431 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_205017.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211011_134416 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_140429 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (362).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (127).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1470).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_140445 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_161934 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215824.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211011_170720 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (241).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\b30f5725-778c-4bda-b078-17accc78577f_rotated_90.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (619).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_153.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_68.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_125451 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222014.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1018).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_125736 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (215).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1091).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (275).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222454.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20241103_145024.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (668).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1361).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_162310 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(100).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144251_1.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (441).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\53e45a15-9c45-40be-bd04-6a637b31d5fd.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_153554 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Anthracnose\Anthracnose (42).jpg,Guava,Anthracnose,1,Guava_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222215.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_161926 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (1170).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_211002.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_204223.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (335).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_91.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_212304.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\20211011_134904 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_212736.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_213444.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (341).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_35.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_161031 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144049.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (680).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_124457 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_222449.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_214939.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(4).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (39).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144400.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215820.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_74.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_215222.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Healthy\Anthracnose_increased_288.png,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220641.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_222647.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\20211231_161744 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1224).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Healthy\IMG_20240114_144128_1.jpg,Papaya,Healthy,0,Papaya_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_221706.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Mango_Healthy\IMG_20240504_220624.jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1468).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Guava_Healthy\Healthy (1482).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_162609 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose_increased_17.png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_210330.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_164852 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20240506_221457.jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Healthy\20211231_155132 (Custom).jpg,Mango,Healthy,0,Mango_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(179).png,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Guava_Healthy\Healthy (360).jpg,Guava,Healthy,0,Guava_Healthy
+dataset\Raw_dataset\Papaya_Anthracnose\Anthracnose(178).jpg,Papaya,Anthracnose,1,Papaya_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\20211008_124302 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose
+dataset\Raw_dataset\Mango_Anthracnose\IMG_20211011_164049 (Custom).jpg,Mango,Anthracnose,1,Mango_Anthracnose

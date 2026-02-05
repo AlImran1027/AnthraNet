@@ -105,6 +105,10 @@ Temporary Items
 *.rar
 
 # Others
+dataset
 Dataset_split
 Dataset_split_no_aug
 Combined Dataset
+
+Custom_model/outputs/checkpoints
+Custom_model/outputs/final_model.pth
