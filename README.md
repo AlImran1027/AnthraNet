@@ -5,7 +5,7 @@
 A comprehensive deep learning pipeline for classifying Anthracnose disease in Guava, Mango, and Papaya leaves using:
 - **DenseNet201** backbone with **Feature Pyramid Networks (FPN)**
 - **Global Context Attention (GCA)** for feature refinement
-- **Mask R-CNN** branch for lesion segmentation (optional)
+
 
 ---
 
@@ -13,9 +13,7 @@ A comprehensive deep learning pipeline for classifying Anthracnose disease in Gu
 
 ```
 project/
-├── anthracnose_training_pipeline.py    # Training notebook code
-├── anthracnose_evaluation_pipeline.py  # Evaluation notebook code
-├── README.md                           # This file
+├── README.md                           # Project documentation
 ├── dataset/
 │   └── Raw_dataset/
 │       ├── Guava_Anthracnose/
@@ -24,15 +22,18 @@ project/
 │       ├── Mango_Healthy/
 │       ├── Papaya_Anthracnose/
 │       └── Papaya_Healthy/
-└── outputs/                            # Generated during training
-    ├── checkpoints/
-    │   └── best_model.pth
-    ├── logs/
-    │   └── training_history.json
-    └── evaluation_results/
-        ├── confusion_matrix_*.png
-        ├── training_curves.png
-        └── evaluation_report.txt
+└── Custom_model/
+    ├── anthracnose_training.ipynb      # Training notebook
+    ├── anthracnose_evaluation.ipynb    # Evaluation notebook
+    └── outputs/                        # Generated during training/evaluation
+        ├── checkpoints/
+        │   └── best_model.pth
+        ├── logs/
+        │   └── training_history.json
+        └── evaluation_results/
+            ├── confusion_matrix_*.png
+            ├── training_curves.png
+            └── evaluation_report.txt
 ```
 
 ---
