@@ -1,0 +1,39 @@
+# ============================================================
+# Requirements for Anthracnose Ablation Study
+# Covers: CNN models (Done/) and ViT/Swin models (Refined_ViT_wit_FPN+GCA/)
+# Target: RunPod GPU instances (CUDA 11.8 / 12.x)
+# ============================================================
+
+# ── Core deep learning ───────────────────────────────────────
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0          # pulled in by torch; ensures CUDA compatibility
+
+# ── Vision Transformer backbone (DeiT, Swin-Large) ──────────
+timm>=0.9.0
+
+# ── Image augmentation ──────────────────────────────────────
+albumentations>=1.3.1
+opencv-python-headless>=4.7.0   # headless = no GUI dep, safe on RunPod
+
+# ── Data science stack ───────────────────────────────────────
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scikit-image>=0.21.0            # used in evaluation notebooks (skimage)
+
+# ── Visualisation ────────────────────────────────────────────
+matplotlib>=3.7.0
+seaborn>=0.12.0
+Pillow>=9.5.0
+
+# ── Progress bars ────────────────────────────────────────────
+tqdm>=4.65.0
+
+# ── Explainability (evaluation notebooks) ───────────────────
+lime>=0.2.0.1
+
+# ── Notebook runtime ─────────────────────────────────────────
+jupyter>=1.0.0
+ipywidgets>=8.0.0               # tqdm.notebook requires this
+nbconvert>=7.0.0
